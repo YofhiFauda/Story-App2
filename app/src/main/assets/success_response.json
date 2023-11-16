@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "message": "Stories fetched successfully",
+  "listStory": [
+    {
+      "id": "story-TgjiQEuwBtacMO2v",
+      "name": "andromed80",
+      "description": "ini test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699712363088_XkPGZuIL.jpg",
+      "createdAt": "2023-11-11T14:19:23.091Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-zYpbhecblsCRpvTh",
+      "name": "thoga1",
+      "description": "tes",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699711024745_1XSdXnsp.jpg",
+      "createdAt": "2023-11-11T13:57:04.747Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-oY7DaCD95g7assOk",
+      "name": "Rey",
+      "description": "ets",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699710087431_EBLOdAQV.jpg",
+      "createdAt": "2023-11-11T13:41:27.436Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-DwoEBg1skYTL8yLX",
+      "name": "Rey",
+      "description": "set",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699710039176_PKN439HK.jpg",
+      "createdAt": "2023-11-11T13:40:39.181Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-6hzq9dNlB00-hYlY",
+      "name": "Rey",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699709755253_EA8St8dK.jpg",
+      "createdAt": "2023-11-11T13:35:55.259Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-X24lAB1_zb5HSd8K",
+      "name": "kucing177",
+      "description": "test",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699708553751_prxqpCk8.jpg",
+      "createdAt": "2023-11-11T13:15:53.753Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-Xd72unE69_OPRhU5",
+      "name": "hasrul",
+      "description": "kampus",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699708506617_Ebqgsk6g.jpg",
+      "createdAt": "2023-11-11T13:15:06.674Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-_4a2whR971Xf-b2o",
+      "name": "falk",
+      "description": "alhamdulillah",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699708184658_K3bH27lm.jpg",
+      "createdAt": "2023-11-11T13:09:44.660Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-oxt5e2f2x9o6HF9V",
+      "name": "kurniawan",
+      "description": "Mabar bang",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699707493521_9WIunktm.jpg",
+      "createdAt": "2023-11-11T12:58:13.527Z",
+      "lat": null,
+      "lon": null
+    },
+    {
+      "id": "story-wp3jlVH_D_fTGAmS",
+      "name": "test123",
+      "description": "fahjf",
+      "photoUrl": "https://story-api.dicoding.dev/images/stories/photos-1699707348272_jn_OwJX7.jpg",
+      "createdAt": "2023-11-11T12:55:48.274Z",
+      "lat": 37.4219983,
+      "lon": -122.084
+    }
+  ]
+}
